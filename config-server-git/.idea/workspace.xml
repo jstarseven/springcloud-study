@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="41d8cd46-a89b-41fb-9ce2-cebf2dc45991" name="Default" comment="yml db link">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-client/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-client/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-client/src/main/java/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-client/src/main/java/com/server/Application.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-client/src/main/java/com/server/controller/DcController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-client/src/main/resources/bootstrap.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-client/src/test/java/com/server/service/URLConnection.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/server/Application.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/server/controller/DcController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/server/service/URLConnection.java" />
-    </list>
+    <list default="true" readonly="true" id="41d8cd46-a89b-41fb-9ce2-cebf2dc45991" name="Default" comment="yml db link" />
     <ignored mask="*.idea;*.iml;*.target" />
     <ignored path="target/" />
     <ignored path="$PROJECT_DIR$/target/artifacts/" />
@@ -38,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="60" lean-forward="true" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+            <state relative-caret-position="264">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
               </folding>
@@ -63,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="154">
+              <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -586,7 +571,7 @@
       <workItem from="1524809521277" duration="1420000" />
       <workItem from="1524811489814" duration="504000" />
       <workItem from="1524812037397" duration="3301000" />
-      <workItem from="1525400701573" duration="3127000" />
+      <workItem from="1525400701573" duration="5568000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1523446523858</created>
@@ -708,7 +693,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154412000" />
+    <option name="totallyTimeSpent" value="156853000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -721,7 +706,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -933,21 +917,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="60" lean-forward="true" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>

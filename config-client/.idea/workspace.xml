@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="41d8cd46-a89b-41fb-9ce2-cebf2dc45991" name="Default" comment="yml db link">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/server/Application.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/server/controller/DcController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/server/service/URLConnection.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-server-git/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-server-git/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-server-git/src/main/java/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-server-git/src/main/java/com/server/Application.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-server-git/src/main/java/com/server/controller/DcController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-server-git/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../config-server-git/src/test/java/com/server/service/URLConnection.java" />
-    </list>
+    <list default="true" readonly="true" id="41d8cd46-a89b-41fb-9ce2-cebf2dc45991" name="Default" comment="yml db link" />
     <ignored mask="*.idea;*.iml;*.target" />
     <ignored path="target/" />
     <ignored path="$PROJECT_DIR$/target/artifacts/" />
@@ -67,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -470,7 +455,7 @@
       <workItem from="1524811489814" duration="504000" />
       <workItem from="1524812037397" duration="3301000" />
       <workItem from="1525400701573" duration="884000" />
-      <workItem from="1525401674984" duration="2541000" />
+      <workItem from="1525401674984" duration="5575000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1523446523858</created>
@@ -592,7 +577,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154710000" />
+    <option name="totallyTimeSpent" value="157744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -828,7 +813,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>
